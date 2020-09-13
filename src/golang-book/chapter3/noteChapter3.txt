@@ -1,0 +1,14 @@
+Types
+1.Numbers
+    1.1 interger int ex. -3, -2, -1, 0, 1, 2, 3
+    1.2 floating-point ex. 1.234, 123.4, 0.0001234, 12340000
+2.String
+    - create by "" (double quote) or ``(back ticks)  
+    - start new line use \n 
+    - tab character use \t
+    - many of character use len method ex. len("Hello World")
+    - concatinate string ex. "Hello "+"World"
+    - into each character ex. "Hello World"[1]
+3.Booleans (represent true, false)
+    Logic: && and, || or, ! not
+
